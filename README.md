@@ -41,8 +41,8 @@ Testing accuracy decreased to 62.5% due to several False Positive predictions, w
 
 Despite these limitations, the results indicate that a lightweight EEG processing pipeline based on DWT, HFD, and KNN can effectively identify basic emotional states using a single-channel EEG device.
 
-<img width="588" height="300" alt="DataUji" src="https://github.com/user-attachments/assets/d9bac662-8bc0-4dfa-ac79-48588a47844f" />
 <img width="570" height="403" alt="DataTraining" src="https://github.com/user-attachments/assets/08328c79-94f9-4127-9f6c-af1da5de8636" />
+<img width="588" height="300" alt="DataUji" src="https://github.com/user-attachments/assets/d9bac662-8bc0-4dfa-ac79-48588a47844f" />
 
 # Author
 - Andan Riski Mustari 			      235150301111002
