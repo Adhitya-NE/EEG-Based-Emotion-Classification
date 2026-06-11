@@ -44,7 +44,7 @@ Despite these limitations, the results indicate that a lightweight EEG processin
 <img width="570" height="403" alt="DataTraining" src="https://github.com/user-attachments/assets/08328c79-94f9-4127-9f6c-af1da5de8636" />
 <img width="588" height="300" alt="DataUji" src="https://github.com/user-attachments/assets/d9bac662-8bc0-4dfa-ac79-48588a47844f" />
 
-# Author
+# Authors
 - Andan Riski Mustari 			      235150301111002
 - Maulidiah Yasmin			        	235150301111006
 - Muhammad Zurin Hanandi Abdillah	235150307111010
